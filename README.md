@@ -1,6 +1,4 @@
 # sORFplnc
-
-# sORFplnc
 Hybrid sampling for extremely imbalanced and high-dimensional datasets to find the small open reading frames in plant long noncoding RNA
 
 # OS
