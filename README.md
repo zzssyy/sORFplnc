@@ -21,4 +21,4 @@ python sORFplnc.py
 
 # Graphical abstract
 
-![image](https://github.com/zzssyy/sORFplnc/blob/main/Graphic_Abstract.png)
+![image](https://github.com/zzssyy/sORFplnc/blob/main/Graphical_Abstract.png)
