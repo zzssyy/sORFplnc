@@ -19,7 +19,7 @@ scikit_learn==0.24.2
 
 python sORFplnc.py
 
-Also，you can retrain the model using your data.
+Also your data your way.
 
 # Graphical abstract
 
