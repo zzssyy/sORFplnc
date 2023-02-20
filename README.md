@@ -1,5 +1,5 @@
 # sORFplnc
-A bioinformatics tool to identify small open reading frames in plant lncRNA
+A bioinformatics tool to effectively find small open reading frames in plant lncRNA
 
 # OS
 win10
